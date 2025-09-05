@@ -6,16 +6,14 @@ I’m passionate about cybersecurity and enjoy solving problems through practica
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00c6ff?logo=linkedin)](https://linkedin.com/in/boydjake) [![Email](https://img.shields.io/badge/Email-jbsec2%40gmail.com-red?logo=gmail)](mailto:jbsec2@gmail.com)
 
+---
 
-<br clear="left"/>
 
-
-<br clear="left"/>
-
+<img src="https://www.x-od.com/wp-content/uploads/2023/10/VM-VRT-WHT.png" alt="VMware Logo" width="25%" style="pointer-events: none;">
+ 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/jakeboyd2/vulnerability-management-program/tree/main)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
 
 ## Certifications
