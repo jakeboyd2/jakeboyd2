@@ -17,11 +17,9 @@ I’m passionate about cybersecurity and enjoy solving problems through practica
 - **[Vulnerability Management Program Implementation](https://github.com/jakeboyd2/vulnerability-management-program/tree/main)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
-## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
-
-[twitter]: https://twitter.com/___________
-[youtube]: https://www.youtube.com/c/___________
-[instagram]: https://www.instagram.com/___________
-[linkedin]: https://linkedin.com/in/___________
+## Certifications
+<div>
+<a href="https://drive.google.com/file/d/13VYMZK9CX3QGJWrpTQ8jBve-QNikMGuk/view?usp=sharing" target="_blank" rel="noopener">
+  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+ Certification" />
+</a>
