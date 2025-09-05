@@ -2,15 +2,13 @@
 
 I’m passionate about cybersecurity and enjoy solving problems through practical, hands-on projects. From managing vulnerabilities to detecting threats, these efforts let me explore the constantly changing world of cybersecurity. I invite you to take a look and see the work I’ve dedicated to improving security operations and processes!
 
-<hr style="height:2px; border:none; background:linear-gradient(to right, #00c6ff, #0072ff);" />
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00c6ff?logo=linkedin)](https://linkedin.com/in/boydjake) [![Email](https://img.shields.io/badge/Email-jbsec2%40gmail.com-red?logo=gmail)](mailto:jbsec2@gmail.com)
 
 
-## 🤳 Connect With Me
+<br clear="left"/>
 
-[<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br clear="left"/>
 
