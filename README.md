@@ -14,7 +14,12 @@ I’m passionate about cybersecurity and enjoy solving problems through practica
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/jakeboyd2/vulnerability-management-program/tree/main)**
+  
 
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor)](https://github.com/jakeboyd2/threat-hunting-scenario-tor)**  
+  
 
 ## Certifications
 <div>
