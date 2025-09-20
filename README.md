@@ -20,6 +20,13 @@ I’m passionate about cybersecurity and enjoy solving problems through practica
 
 - **[Threat Hunting Scenario (Tor)](https://github.com/jakeboyd2/threat-hunting-scenario-tor)**  
   
+## 🖥️ Shell Scripts
+
+- **[Home Backup](https://github.com/jakeboyd2/Automation-backup/tree/main)**
+
+## ⚡ PowerShell Scripts
+
+- **[Inactive AD Account Finder](https://github.com/jakeboyd2/Inactive-Disabled-AD-Accounts-Automated-PowerShell-Script)**
 
 ## Certifications
 <div>
