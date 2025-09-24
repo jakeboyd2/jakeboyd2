@@ -18,7 +18,11 @@ I’m passionate about cybersecurity and enjoy solving problems through practica
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor)](https://github.com/jakeboyd2/threat-hunting-scenario-tor)**  
+- **[Threat Hunting Scenario (Tor)](https://github.com/jakeboyd2/threat-hunting-scenario-tor)**
+
+## 🏠 Homelabs
+
+- **[End-to-end enterprise attack](https://github.com/jakeboyd2/Homelab/tree/main)** 
   
 ## 🖥️ Shell Scripts
 
@@ -27,6 +31,49 @@ I’m passionate about cybersecurity and enjoy solving problems through practica
 ## ⚡ PowerShell Scripts
 
 - **[Inactive AD Account Finder](https://github.com/jakeboyd2/Inactive-Disabled-AD-Accounts-Automated-PowerShell-Script)**
+
+---
+
+## Tools
+
+### Network
+<div>
+  <a href="https://www.wireshark.org/">
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+  </a>
+  <a href="https://nmap.org/">
+    <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Nmap&logoColor=white" />
+  </a>
+</div>
+
+### Endpoint
+<div>
+  <a href="https://www.microsoft.com/en-us/security/business/endpoint-security/microsoft-defender-endpoint">
+    <img src="https://img.shields.io/badge/-Microsoft%20Defender%20for%20Endpoint-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+  </a>
+  <a href="https://wazuh.com/">
+    <img src="https://img.shields.io/badge/-Wazuh-0000FF?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+  </a>
+</div>
+
+### SIEM
+<div>
+  <a href="https://www.elastic.co/">
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+  </a>
+  <a href="https://azure.microsoft.com/en-us/services/microsoft-sentinel/">
+    <img src="https://img.shields.io/badge/-Microsoft%20Sentinel-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+  </a>
+</div>
+
+### Application 
+<div>
+  <a href="https://azure.microsoft.com/">
+    <img src="https://img.shields.io/badge/-Azure-0089D6?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+  </a>
+</div>
+
+---
 
 ## Certifications
 <div>
