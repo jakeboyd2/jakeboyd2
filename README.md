@@ -77,6 +77,6 @@ I’m passionate about cybersecurity and enjoy solving problems through practica
 
 ## Certifications
 <div>
-<a href="https://drive.google.com/file/d/13VYMZK9CX3QGJWrpTQ8jBve-QNikMGuk/view?usp=sharing" target="_blank" rel="noopener">
+<a href="https://www.credly.com/badges/ac9d2195-0cfc-4c05-8330-894b4d7e1bca/public_url" target="_blank" rel="noopener">
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" alt="CompTIA Security+ Certification" />
 </a>
