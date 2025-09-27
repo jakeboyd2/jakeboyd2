@@ -20,6 +20,8 @@ I’m passionate about cybersecurity and enjoy solving problems through practica
 
 - **[Threat Hunting Scenario (Tor)](https://github.com/jakeboyd2/threat-hunting-scenario-tor)**
 
+- **[Hide-Your-RDP](https://github.com/jakeboyd2/Hide-Your-RDP)**
+
 ## 🏠 Homelabs
 
 - **[End-to-end enterprise attack](https://github.com/jakeboyd2/Homelab/tree/main)** 
