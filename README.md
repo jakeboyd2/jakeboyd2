@@ -8,10 +8,13 @@ I’m passionate about cybersecurity and enjoy solving problems through practica
 
 ---
 
+## ✅ Governance Risk and Compliance (GRC) Engineering
 
-<img src="https://www.x-od.com/wp-content/uploads/2023/10/VM-VRT-WHT.png" alt="VMware Logo" width="25%" style="pointer-events: none;">
+- **[SOC 2 AWS Mapping Guide](https://github.com/jakeboyd2/soc2-aws-mapping-guide/blob/main/README.md)**
  
 ## ⚠️ Vulnerability Management Projects
+
+<img src="https://www.x-od.com/wp-content/uploads/2023/10/VM-VRT-WHT.png" alt="VMware Logo" width="25%" style="pointer-events: none;">
 
 - **[Vulnerability Management Program Implementation](https://github.com/jakeboyd2/vulnerability-management-program/tree/main)**
   
